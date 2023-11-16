@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter';
+    font-weight: 400;
+    
+}
+
+body{
+    
+    background: #E2E2E2;
+}
+
+header{
+    height: 5em;
+    width: 100%;
+    background:  #403F85;
+    
+}
+
+main{
+    position: relative;
+    width: 45%;
+    margin: 0 auto;
+    top: -5em;
+    background:#FFFFFF;
+}
+
+span p{
+    
+    font-weight: 200;
+}
+
+.result span{
+    margin-left: 30px;
+}
+
+.back{
+    position: relative;
+    font-size: 20px;
+    margin-left: 90%;
+    
+}
+
+.test{
+    font-size: 32px;
+    font-family: 'Inter';
+
+
+}
