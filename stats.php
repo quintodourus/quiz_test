@@ -3,7 +3,7 @@
 $conn = new mysqli('localhost', 'root', '', 'quiz');
 
 
-echo "Connected successfully";
+
 ?>
 
 <!DOCTYPE html>

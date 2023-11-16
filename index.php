@@ -7,7 +7,7 @@ if ($conn->connect_error) {
   die("Connection failed: " . $conn->connect_error);
 
 }
-echo "Connected successfully";
+
 ?>
 
 
@@ -56,7 +56,7 @@ echo "Connected successfully";
         </div>
         <br>
         <div class="test">
-        <span>1. Що означає абревіатура PHP</span>
+        <span>2. Що означає абревіатура PHP</span>
             <br>
             <br>
             <input type="radio" value="0" name="sec"> Public Hosting Platform
@@ -73,7 +73,7 @@ echo "Connected successfully";
         </div>
         <br>
         <div class="test">
-        <span>1. Що означає абревіатура PHP</span>
+        <span>3. Що означає абревіатура PHP</span>
             <br>
             <br>
             <input type="radio" value="0" name="third"> Public Hosting Platform
@@ -90,7 +90,7 @@ echo "Connected successfully";
         </div>
         <br>
         <div class="test">
-        <span>1. Що означає абревіатура PHP</span>
+        <span>4. Що означає абревіатура PHP</span>
             <br>
             <br>
             <input type="radio" value="0" name="fourth"> Public Hosting Platform
@@ -107,7 +107,7 @@ echo "Connected successfully";
         </div>
         <br>
         <div class="test">
-        <span>1. Що означає абревіатура PHP</span>
+        <span>5. Що означає абревіатура PHP</span>
             <br>
             <br>
             <input type="radio" value="0" name="fifth"> Public Hosting Platform
@@ -124,7 +124,7 @@ echo "Connected successfully";
         </div>
         <br>
         <div class="test">
-        <span>1. Що означає абревіатура PHP</span>
+        <span>6. Що означає абревіатура PHP</span>
             <br>
             <br>
             <input type="radio" value="0" name="sixth"> Public Hosting Platform
@@ -141,7 +141,7 @@ echo "Connected successfully";
         </div>
         <br>
         <div class="test">
-        <span>1. Що означає абревіатура PHP</span>
+        <span>7. Що означає абревіатура PHP</span>
             <br>
             <br>
             <input type="radio" value="0" name="seventh"> Public Hosting Platform
@@ -158,7 +158,7 @@ echo "Connected successfully";
         </div>
         <br>
         <div class="test">
-        <span>1. Що означає абревіатура PHP</span>
+        <span>8. Що означає абревіатура PHP</span>
             <br>
             <br>
             <input type="radio" value="0" name="eight"> Public Hosting Platform
